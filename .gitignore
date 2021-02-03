@@ -11,4 +11,7 @@ db.sqlite3
 db.sqlite3-journal
 media
 
+### 내가추가한거
+static
+
 .*.swp
